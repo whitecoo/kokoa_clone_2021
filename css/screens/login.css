@@ -1,5 +1,5 @@
 .welcome-header {
-  margin: 90px 0px;
+  margin: 117px 0px;
   text-align: center;
   display: flex;
   flex-direction: column;
@@ -52,8 +52,4 @@
   text-decoration: none;
   color: inherit;
   font-size: 13px;
-}
-
-#Login-form input[name="username, password"] {
-  margin-bottom: 50px;
 }
